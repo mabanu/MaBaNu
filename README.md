@@ -9,10 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=mabanu&style=flat-square&color=blue" alt="visit counter"/>
 </div>
 
----
-
 ### Hi there 👋
 
+---
+### About me
+
+Full stack developer
 ---
 
 ### Languages and Tools :
