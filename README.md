@@ -22,7 +22,7 @@
 Full stack developer
 
 After study economics and diferents works, I found my passion in coding.
-As first goal I look forward to specialice in web development and .NEt framework, with Agile method of work and testing. While also trying to learn new languages and tricks.
+As first goal I look forward to specialice in web development and .NET framework, with Agile method of work and testing. While also trying to learn new languages and tricks.
 
 ---
 
