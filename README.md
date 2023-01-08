@@ -4,17 +4,26 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maximiliano-barrientos-nunez-964b03a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue??style=plastic&logo=appveyor&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue??style=plastic&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: elbodysathba@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+  <a href="mailto: maximilianobarrientos@msn.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="outlook Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mabanu&style=flat-square&color=blue" alt="visit counter"/>
 </div>
 
-### Hi there 👋
-
 ---
+
 ### About me
 
 Full stack developer
+
+After study economics and diferents works, I found my passion in coding.
+As first goal I look forward to specialice in web development and .NEt framework, with Agile method of work and testing. While also trying to learn new languages and tricks.
+
 ---
 
 ### Languages and Tools :
@@ -32,7 +41,10 @@ Full stack developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="cypress" alt="cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
