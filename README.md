@@ -68,5 +68,8 @@ As first goal I look forward to specialice in web development and .NET framework
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+---
 
-
+<p align="center">
+  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
