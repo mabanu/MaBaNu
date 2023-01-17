@@ -28,7 +28,7 @@ As first goal I look forward to specialice in web development and .NET framework
 
 ### Languages and Tools :
 
-<div>
+<div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -62,12 +62,16 @@ As first goal I look forward to specialice in web development and .NET framework
 
 ### My Stats :
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabanu&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mabanu&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
+   <div align='center'>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabanu&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mabanu&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
+   </div>
 
 ## Random Joke Generator
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+   <div id="header" align='center'>
+      ![Jokes Card](https://readme-jokes.vercel.app/api)
+   </div>
 
 ---
 
