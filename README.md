@@ -61,17 +61,13 @@ As first goal I look forward to specialice in web development and .NET framework
 ---
 
 ### My Stats :
-
-   <div align='center'>
-      <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabanu&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)</p>
+  
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabanu&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)</p>
       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mabanu&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
-   </div>
-
+   
 ## Random Joke Generator
-
-   <div id="header" align='center'>
-      ![Jokes Card](https://readme-jokes.vercel.app/api)
-   </div>
+  
+      ![Jokes Card](https://readme-jokes.vercel.app/api)   
 
 ---
 
